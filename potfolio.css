@@ -11,6 +11,7 @@ body{
   width:80%;
   margin:auto;
   overflow:hidden;
+  allign-items:center;
 }
 
 ul{
@@ -19,7 +20,7 @@ ul{
 }
 
 .button_1{
-  height:38px;
+  height:38px;bo
   background:#e8491d;
   border:0;
   padding-left: 20px;
@@ -132,7 +133,7 @@ header a:hover{
   text-align: center;
   width:30%;
   padding:10px;
-}
+} 
 
 #boxes .box img{
   width:90px;
@@ -205,4 +206,3 @@ footer{
     width:100%;
     margin-bottom:5px;
   }
-}
