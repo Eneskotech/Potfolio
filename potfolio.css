@@ -1,26 +1,26 @@
 body{
-  font: 15px/1.5 Arial, Helvetica,sans-serif;
+  font: 15px/1.5 Arial, Helvetica, sans-serif;
   padding:0;
   margin:0;
   background-color:#f4f4f4;
 }
 
 .page-title{
-    allign-text:center;
-    justify-items:center;
+    allign-text: center;
+    justify-items: center;
 }
 .order{
-    allign-text:center;
-    justify-items:center;
+    allign-text: center;
+    justify-items: center;
 }
     
 
 /* Global */
 .container{
   width:80%;
-  margin:auto;
-  overflow:hidden;
-  allign-items:center;
+  margin: auto;
+  overflow: hidden;
+  align-items: center;
 }
 
 ul{
@@ -34,7 +34,7 @@ ul{
   border:0;
   padding-left: 20px;
   padding-right:20px;
-  color:black;
+  color: black;
 }
 
 .dark{
@@ -43,6 +43,8 @@ ul{
   color:#ffffff;
   margin-top:10px;
   margin-bottom:10px;
+  justify-items: center;
+  justify-content: center;
 }
 
 /* Header **/
